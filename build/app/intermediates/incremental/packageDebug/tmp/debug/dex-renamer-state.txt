@@ -1,0 +1,4 @@
+#Mon Aug 23 19:53:16 ICT 2021
+base.0=E\:\\VSCode Project\\projects\\flutter_news_provider\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

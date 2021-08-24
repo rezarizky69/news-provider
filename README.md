@@ -1,16 +1,16 @@
-# flutter_news_provider
+# News Provider
 
-A new Flutter project.
+This is a news app created using flutter. This app can get news via api and display it in web view.
 
-## Getting Started
+Build with :
+- Provider State Management
+- Http + API
+- Curved Navigation Bar
+- MVVM
+- Null Safety
 
-This project is a starting point for a Flutter application.
+![Artboard](https://user-images.githubusercontent.com/87839081/130551698-d65b3a8c-4de5-4214-86cb-de4fd6bff387.png)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/87839081/130556130-031583e2-76aa-4528-a45f-f3a8d6f11183.gif" width="250">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
